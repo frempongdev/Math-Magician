@@ -1,0 +1,47 @@
+.header {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.1% 5%;
+}
+
+.topicBox {
+  width: 70%;
+  display: flex;
+  justify-content: start;
+  align-items: center;
+}
+
+.man {
+  height: 100px;
+  margin-right: 2%;
+}
+
+.topic {
+  font-size: 4rem;
+}
+
+.navBox {
+  width: 25%;
+}
+
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.nav li > * {
+  color: black;
+}
+
+.nav li {
+  font-weight: 600;
+  list-style: none;
+  font-size: 1.5rem;
+}
+
+.divider {
+  font-size: 1.8rem;
+}
