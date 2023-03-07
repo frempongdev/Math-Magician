@@ -1,15 +1,21 @@
-.calc-box {
+.calcMain {
   display: flex;
-  justify-content: center;
-  align-items: center;
-  margin-top: 15%;
+  justify-content: space-between;
+  padding: 3% 2%;
+}
+
+.letsDo {
+  margin: 0%;
+  font-size: 3.5rem;
+}
+
+.calc-box {
+  width: 40%;
 }
 
 .calc-div {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr 1fr;
-  height: 50%;
-  width: 30%;
 }
 
 .calc-div > * {

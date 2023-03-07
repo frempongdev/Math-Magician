@@ -2,7 +2,7 @@ import homeStyle from '../styleModules/Home.module.css';
 
 const Home = () => (
   <div className={homeStyle.homeBox}>
-    <h2>Welcome to our page</h2>
+    <h2>Welcome to our page!</h2>
     <p>
       Mathematics is one of the most fundamental and practical sciences, and it plays an
       essential role in everyday life. In particular, arithmetic is an essential branch of
