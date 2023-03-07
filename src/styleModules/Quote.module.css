@@ -1,3 +1,9 @@
-h2 {
-  font-size: 3rem;
+.quoteBox {
+  padding: 15% 10%;
+  display: flex;
+  width: 80%;
+}
+
+.quoteBox p {
+  font-size: 2rem;
 }
