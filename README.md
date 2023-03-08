@@ -34,8 +34,8 @@
 <br>
 
 <!-- DEPLOYMENT -->
-### This project goes live [here](https://math-magician-24te.onrender.com) 🚀 .
-If link does not work copy URL ( https://math-magician-24te.onrender.com )
+### This project goes live [here](https://math-magician-46yv.onrender.com) 🚀 .
+If link does not work copy URL ( https://math-magician-46yv.onrender.com )
 
 <br>
 
