@@ -34,8 +34,8 @@
 <br>
 
 <!-- DEPLOYMENT -->
-### This project goes live [here](https://frempongdev.github.io/Math-Magician/dist/) 🚀 .
-If link does not work copy URL ( https://frempongdev.github.io/Math-Magician/dist/ )
+### This project goes live [here](https://math-magician-24te.onrender.com) 🚀 .
+If link does not work copy URL ( https://math-magician-24te.onrender.com )
 
 <br>
 
