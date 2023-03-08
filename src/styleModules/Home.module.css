@@ -1,0 +1,13 @@
+.homeBox {
+  min-height: 100vh;
+  padding: 1% 2%;
+}
+
+.homeBox h2 {
+  color: #f5b692;
+  font-size: 3rem;
+}
+
+.homeBox p {
+  font-size: 1.5rem;
+}
