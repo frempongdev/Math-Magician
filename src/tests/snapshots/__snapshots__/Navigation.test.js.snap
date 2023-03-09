@@ -1,0 +1,64 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Navigation should match with Navigation snapshot 1`] = `
+<div
+  className="header"
+>
+  <div
+    className="topicBox"
+  >
+    <img
+      alt="man"
+      className="man"
+      src="man.png"
+    />
+    <h1
+      className="topic"
+    >
+      Math Magician
+    </h1>
+  </div>
+  <nav
+    className="navBox"
+  >
+    <ul
+      className="nav"
+    >
+      <li>
+        <a
+          href="/"
+          onClick={[Function]}
+        >
+          Home
+        </a>
+      </li>
+      <span
+        className="divider"
+      >
+        |
+      </span>
+      <li>
+        <a
+          href="/Calculator"
+          onClick={[Function]}
+        >
+          Calculator
+        </a>
+      </li>
+      <span
+        className="divider"
+      >
+        |
+      </span>
+      <li>
+        <a
+          href="/Quote"
+          onClick={[Function]}
+        >
+          Quote
+        </a>
+      </li>
+    </ul>
+  </nav>
+</div>
+`;
