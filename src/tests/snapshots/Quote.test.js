@@ -1,5 +1,5 @@
 import renderer from 'react-test-renderer';
-import Quote from '../../pages/Quote';
+import Quote from '../../components/Quote.js';// eslint-disable-line import/extensions
 
 describe('Quote', () => {
   test('should match with Quote snapshot', () => {
